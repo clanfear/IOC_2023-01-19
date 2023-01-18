@@ -955,7 +955,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="187.82948"
+     inkscape:cx="98.07948"
      inkscape:cy="187.01428"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -1230,7 +1230,7 @@
     </g>
     <g
        id="g5933-1"
-       transform="translate(-13.033312,194.89492)"
+       transform="translate(8.5302297,194.89492)"
        style="fill:#342c5c;fill-opacity:1">
       <g
          id="g5914-8"
@@ -1278,7 +1278,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#342c5c;fill-opacity:1;stroke-width:0.26458332"
                y="78.140724"
                x="80.5961"
-               sodipodi:role="line">-1</tspan></text>
+               sodipodi:role="line">1*</tspan></text>
           <text
              id="text4126-2-0-0-4-5-8-2-7-2"
              y="115.83641"
@@ -1321,100 +1321,199 @@
       </g>
     </g>
     <g
-       id="g5897-7"
-       transform="translate(-50.341012,176.50771)">
-      <g
-         style="fill:#458490;fill-opacity:1"
-         transform="translate(13.389725,3.3729363)"
-         id="g5644-1-2-9">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="86.582939"
+       id="g5644-1-2-9"
+       transform="translate(-15.387745,179.88065)"
+       style="fill:#458490;fill-opacity:1">
+      <text
+         id="text4126-2-0-0-4-4-7-1-7"
+         y="111.62959"
+         x="86.582939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-7-2-3-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
            y="111.62959"
-           id="text4126-2-0-0-4-4-7-1-7"><tspan
-             sodipodi:role="line"
-             x="86.582939"
-             y="111.62959"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
-             id="tspan5478-6-7-2-3-5">Y<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
-   id="tspan5578-4-8-9-3" /></tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="86.582939"
+           sodipodi:role="line">Y<tspan
+   id="tspan5578-4-8-9-3"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332" /></tspan></text>
+      <text
+         id="text4126-2-0-0-4-5-8-6-6-4"
+         y="115.83641"
+         x="89.014053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-5-1-4-5-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
+           y="123.37465"
            x="89.014053"
-           y="115.83641"
-           id="text4126-2-0-0-4-5-8-6-6-4"><tspan
-             sodipodi:role="line"
-             x="89.014053"
-             y="123.37465"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
-             id="tspan5478-6-5-1-4-5-0" /></text>
-      </g>
-      <g
-         style="fill:#458490;fill-opacity:1"
-         transform="translate(24.228329,33.237075)"
-         id="g5644-4-7-41-4">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="80.5961"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g5644-4-7-41-4"
+       transform="translate(-4.549141,209.74478)"
+       style="fill:#458490;fill-opacity:1">
+      <text
+         id="text4126-2-0-0-4-4-8-0-8-7"
+         y="78.140724"
+         x="80.5961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-7-1-3-0-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
            y="78.140724"
-           id="text4126-2-0-0-4-4-8-0-8-7"><tspan
-             sodipodi:role="line"
-             x="80.5961"
-             y="78.140724"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
-             id="tspan5478-6-7-1-3-0-4">0</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-           x="89.014053"
-           y="115.83641"
-           id="text4126-2-0-0-4-5-8-2-7-3-4"><tspan
-             sodipodi:role="line"
-             x="89.014053"
-             y="123.37465"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
-             id="tspan5478-6-5-1-9-3-2-0" /></text>
-      </g>
-      <g
-         style="fill:#458490;fill-opacity:1"
-         transform="translate(24.275906,42.342155)"
-         id="g5644-4-7-4-7-9">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
            x="80.5961"
-           y="73.837685"
-           id="text4126-2-0-0-4-4-8-0-5-0-3"><tspan
-             sodipodi:role="line"
-             x="80.5961"
-             y="73.837685"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
-             id="tspan5478-6-7-1-3-8-5-4">B</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           sodipodi:role="line">0</tspan></text>
+      <text
+         id="text4126-2-0-0-4-5-8-2-7-3-4"
+         y="115.83641"
+         x="89.014053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-5-1-9-3-2-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
+           y="123.37465"
            x="89.014053"
-           y="115.83641"
-           id="text4126-2-0-0-4-5-8-2-7-8-9-3"><tspan
-             sodipodi:role="line"
-             x="89.014053"
-             y="123.37465"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
-             id="tspan5478-6-5-1-9-3-8-4-6" /></text>
-      </g>
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g5644-4-7-4-7-9"
+       transform="translate(-4.501564,218.84986)"
+       style="fill:#458490;fill-opacity:1">
+      <text
+         id="text4126-2-0-0-4-4-8-0-5-0-3"
+         y="73.837685"
+         x="80.5961"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-7-1-3-8-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
+           y="73.837685"
+           x="80.5961"
+           sodipodi:role="line">B</tspan></text>
+      <text
+         id="text4126-2-0-0-4-5-8-2-7-8-9-3"
+         y="115.83641"
+         x="89.014053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-5-1-9-3-8-4-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#458490;fill-opacity:1;stroke-width:0.26458332"
+           y="123.37465"
+           x="89.014053"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g5644-4-7-4-7-9-4"
+       transform="translate(-25.935217,180.45962)"
+       style="fill:#000000;fill-opacity:1">
+      <text
+         id="text4126-2-0-0-4-4-8-0-5-0-3-7"
+         y="53.464767"
+         x="38.527351"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           dy="5"
+           id="tspan5478-6-7-1-3-8-5-4-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="53.464767"
+           x="38.527351"
+           sodipodi:role="line">Actually</tspan><tspan
+           id="tspan2313"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="64.048103"
+           x="38.527351"
+           sodipodi:role="line">did this</tspan></text>
+      <text
+         id="text4126-2-0-0-4-5-8-2-7-8-9-3-36"
+         y="115.83641"
+         x="89.014053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-5-1-9-3-8-4-6-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="123.37465"
+           x="89.014053"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g5644-4-7-4-7-9-4-1"
+       transform="translate(6.762508,188.06671)"
+       style="fill:#808080;fill-opacity:1">
+      <text
+         id="text4126-2-0-0-4-4-8-0-5-0-3-7-2"
+         y="56.639767"
+         x="44.083603"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan2313-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.26458332"
+           y="56.639767"
+           x="44.083603"
+           sodipodi:role="line"><tspan
+             dy="5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.26458332"
+             id="tspan2345">Thought</tspan></tspan><tspan
+           id="tspan2347"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.26458332"
+           y="67.223099"
+           x="44.083603"
+           sodipodi:role="line"><tspan
+   id="tspan2349"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#808080;fill-opacity:1;stroke-width:0.26458332">we </tspan>did this</tspan></text>
+      <text
+         id="text4126-2-0-0-4-5-8-2-7-8-9-3-36-1"
+         y="115.83641"
+         x="89.014053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-5-1-9-3-8-4-6-5-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;fill-opacity:1;stroke-width:0.26458332"
+           y="123.37465"
+           x="89.014053"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g5644-4-7-4-7-9-4-5"
+       transform="translate(-21.812492,228.28337)"
+       style="fill:#000000;fill-opacity:1">
+      <text
+         id="text4126-2-0-0-4-4-8-0-5-0-3-7-8"
+         y="54.390808"
+         x="37.998184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           dy="5"
+           id="tspan5478-6-7-1-3-8-5-4-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="54.390808"
+           x="37.998184"
+           sodipodi:role="line">Assumed</tspan><tspan
+           id="tspan2313-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="64.974144"
+           x="37.998184"
+           sodipodi:role="line">equivalent</tspan></text>
+      <text
+         id="text4126-2-0-0-4-5-8-2-7-8-9-3-36-8"
+         y="115.83641"
+         x="89.014053"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           id="tspan5478-6-5-1-9-3-8-4-6-5-83"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-position:super;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+           y="123.37465"
+           x="89.014053"
+           sodipodi:role="line" /></text>
     </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="42.720768"
+       x="64.284309"
        y="290.81329"
        id="text4126-2-0-9-3"><tspan
          sodipodi:role="line"
-         x="42.720768"
+         x="64.284309"
          y="290.81329"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
          id="tspan6152-7">−</tspan></text>
@@ -1677,7 +1776,7 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#342c5c;fill-opacity:1;stroke-width:0.26458332"
                y="78.140724"
                x="80.5961"
-               sodipodi:role="line">-1</tspan></text>
+               sodipodi:role="line">1*</tspan></text>
           <text
              id="text4126-2-0-0-4-5-8-2-7-4"
              y="115.83641"
@@ -1742,7 +1841,7 @@
     </g>
     <g
        id="g5897-7-3"
-       transform="translate(-14.53422,176.64646)">
+       transform="translate(7.0293217,176.64646)">
       <g
          style="fill:#458490;fill-opacity:1"
          transform="translate(13.389725,3.3729363)"
@@ -1830,17 +1929,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="78.527565"
+       x="100.09111"
        y="290.95206"
        id="text4126-2-0-9-3-0"><tspan
          sodipodi:role="line"
-         x="78.527565"
+         x="100.09111"
          y="290.95206"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
          id="tspan6152-7-3">−</tspan></text>
     <g
        id="g5933-0"
-       transform="translate(24.05709,194.7691)"
+       transform="translate(45.620632,194.7691)"
        style="fill:#808080;fill-opacity:1">
       <g
          id="g5914-7"
@@ -1933,13 +2032,89 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:1.25;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="60.986458"
+       x="82.550003"
        y="291.18744"
        id="text4126-2-0-9-1-8"><tspan
          sodipodi:role="line"
-         x="60.986458"
+         x="82.550003"
          y="291.18744"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;font-family:Quattrocento;-inkscape-font-specification:'Quattrocento, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.26458332"
          id="tspan6152-8-9">≠</tspan></text>
+    <g
+       id="g5453-6-1"
+       transform="matrix(-0.30939062,0,0,-0.30939062,52.289689,325.36526)">
+      <g
+         id="g6423-3-8"
+         transform="rotate(-22.029665,84.778612,128.46151)">
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="M 90.210385,137.30084 76.352528,154.24142"
+           id="path288-8-6-8" />
+        <path
+           style="stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="m 73.812528,157.28413 1.47373,-3.67771 1.88648,1.56634 z"
+           id="path290-1-6-5" />
+      </g>
+    </g>
+    <g
+       id="g5453-6-1-8"
+       transform="matrix(0.30939063,0,0,-0.30939063,-19.547501,325.36527)">
+      <g
+         id="g6423-3-8-4"
+         transform="rotate(-22.029665,84.778612,128.46151)">
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="M 90.210385,137.30084 76.352528,154.24142"
+           id="path288-8-6-8-3" />
+        <path
+           style="stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="m 73.812528,157.28413 1.47373,-3.67771 1.88648,1.56634 z"
+           id="path290-1-6-5-7" />
+      </g>
+    </g>
+    <g
+       id="g5453-6-1-8-8"
+       transform="matrix(0,-0.30939063,0.30939063,0,-27.344744,274.62741)">
+      <g
+         id="g6423-3-8-4-9"
+         transform="rotate(-22.029665,84.778612,128.46151)">
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="M 90.210385,137.30084 76.352528,154.24142"
+           id="path288-8-6-8-3-0" />
+        <path
+           style="stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="m 73.812528,157.28413 1.47373,-3.67771 1.88648,1.56634 z"
+           id="path290-1-6-5-7-2" />
+      </g>
+    </g>
+    <g
+       id="g5453-6-1-8-8-3"
+       transform="matrix(0,-0.30939063,-0.30939063,0,81.167021,279.90271)">
+      <g
+         id="g6423-3-8-4-9-1"
+         transform="rotate(-22.029665,84.778612,128.46151)">
+        <path
+           sodipodi:nodetypes="cc"
+           style="fill:none;stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="M 90.210385,137.30084 76.352528,154.24142"
+           id="path288-8-6-8-3-0-4" />
+        <path
+           style="stroke:#000000;stroke-width:0.52916664"
+           inkscape:connector-curvature="0"
+           d="m 73.812528,157.28413 1.47373,-3.67771 1.88648,1.56634 z"
+           id="path290-1-6-5-7-2-3" />
+      </g>
+    </g>
   </g>
 </svg>

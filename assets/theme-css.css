@@ -265,7 +265,7 @@ body {
   margin: 0 auto;
   padding-left: 100px;
   padding-right: 100px;
-  bottom: 3em;
+  bottom: 2em;
 }
 .image-50 img {
   width: 50%;
@@ -320,6 +320,18 @@ body {
 .cct {
   background-color: #342c5c;
   background-image: url(cam_white.svg), url(sweep.jpg);
+  background-position: center center, center bottom;
+  background-size: contain, contain;
+}
+.mailbox {
+  background-color: #342c5c;
+  background-image: url(cam_white.svg), url(sandwiches.jpg);
+  background-position: center center, center bottom;
+  background-size: contain, contain;
+}
+.littercam {
+  background-color: #342c5c;
+  background-image: url(cam_white.svg), url(littercam.jpg);
   background-position: center center, center bottom;
   background-size: contain, contain;
 }
