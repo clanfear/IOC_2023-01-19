@@ -771,9 +771,9 @@ guardians"
 
 **Embedded Experiments**
 
-* More micro-mechanism tests
-   * Exploring asymmetry and heterogeneity
-* Ecological interventions (e.g., work by Branas & MacDonald)
+* More micro-mechanism tests, e.g. exploring asymmetry
+* Environmental interventions (e.g., work by Branas & MacDonald)
+* Policing interventions (e.g., [Weisburd et al. 2021](https://doi.org/10.1007/s11292-019-09401-1))
 * Manipulating collective efficacy?
 
 --
@@ -781,8 +781,8 @@ guardians"
 **Embedded Qualitative Research**
 
 * Testing assumptions and observing mechanisms
-* Shaw & McKay (1942)
-* A model: St. Jean (2007) *Pockets of Crime*
+* The original model: Shaw & McKay (1942)
+* A new model: St. Jean (2007) *Pockets of Crime*
 
 
 
@@ -795,17 +795,19 @@ guardians"
 
 * Ecological theory mechanisms are often ill-specified and untested
    * e.g., *How* does collective efficacy work?
-* Micro-macro transitions
-* The situation: Selection, emergence, lasting effects
-* Matsueda (2017); Wikström & Kroneberg (2022)
+* Micro-macro and macro-micro transitions
+   * The situation: Selection, emergence, lasting effects
+* [Matsueda (2017)](https://doi.org/10.1111/1745-9125.12149); [Wikström & Kroneberg (2022)](https://doi.org/10.1146/annurev-criminol-030920-091320)
 
 --
 
-**Policy Relevant Theory**
+**Increasing Policy Relevance**
 
-* Attention to endogenous processes
+* Attention to social processes that will occur in application
    * e.g., social interaction, spillovers, cascades
-* Attention to urban metro-politics and policing
+* Attention to complex systemic relationships with urban political economy, neighbourhood change, and policing
+   * e.g., investment, residential mobility, police demand and perceptions
+* Addressing failures of community interventions (e.g., [Linning et al. 2022](https://doi.org/10.1186/s40163-022-00167-y))
 
 ---
 class: inverse
