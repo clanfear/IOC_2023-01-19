@@ -606,7 +606,7 @@ Objective: Causal test of direct effect of disorder on crime (A).
 <br>
 
 .image-63[
-![Mailbox Experiment](img/mailbox_experiment_1.svg)
+![Mailbox Experiment](img/mailbox_experiment_pretty.svg)
 ]
 
 
@@ -619,7 +619,7 @@ Our Experiment: Causal tests of direct effects of disorder on crime and prosocia
 <br>
 
 .image-75[
-![Mailbox Experiment](img/mailbox_diagram.svg)
+![Mailbox Experiment](img/mailbox_diagram_pretty.svg)
 ]
 
 
