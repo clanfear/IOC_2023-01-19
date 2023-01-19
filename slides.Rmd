@@ -235,17 +235,6 @@ We can compare different units if their differences are *ignorable*
 ![](img/po_ignorability.svg)
 ]
 
----
-count: false
-
-# Ignorability
-
-We can compare different units if their differences are *ignorable*
-
-.image-75[
-![](img/po_ignorability2.svg)
-]
-
 --
 
 We do this with *randomization* or *conditioning on variables*
@@ -439,7 +428,7 @@ Over 2000 person-hours of **field experiments**, conducted over four years, embe
 
 # Number of Trials
 
-```{r, eval=TRUE,  echo=FALSE, message=FALSE, cache=TRUE, warning=FALSE, dev='svg', fig.height = 5}
+```{r, eval=FALSE,  echo=FALSE, message=FALSE, cache=TRUE, warning=FALSE, dev='svg', fig.height = 5}
 exp_df <- expand.grid(year = 2014:2017,
                       experiment = c("Lost Letter", "Mailbox", "Litter\nIntervention", "Litter\nClean-Up")) %>%
   mutate(active = case_when(
@@ -490,9 +479,13 @@ experiment_timeline
 # ggsave(file = "./img/experiment_timeline.svg")
 ```
 
+.image-full-width[
+![](img/trial_timeline_cropped.png)
+]
+
 ---
 
-```{r, eval=TRUE, echo=FALSE, warning=FALSE, message=FALSE, cache=TRUE, results='hide', dev="svg", fig.height=6.15}
+```{r, eval=FALSE, echo=FALSE, warning=FALSE, message=FALSE, cache=TRUE, results='hide', dev="svg", fig.height=6.15}
 letter_tracts <- c("00100", "01000", "10100", "10200", "10300", "10500", "10600", 
                    "10800", "10900", "01100", "11101", "11102", "11200", "11300", 
                    "11500", "11600", "11700", "11800", "11900", "01200", "12000", 
@@ -546,6 +539,10 @@ trial_map <- ggplot(experiment_tracts, aes(fill=Experiment)) +
   theme(plot.margin = margin(0, 0, 0, 0))
 trial_map
 ```
+
+.image-full-height[
+![](img/trial_map_cropped.png)
+]
 
 ---
 
