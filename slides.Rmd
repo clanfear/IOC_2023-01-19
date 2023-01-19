@@ -120,7 +120,7 @@ Keizer et al. used multiple disorder manipulations and recorded norm violation w
 ]
 
 .centernote[
-*Seemingly strong evidence for the micro-level effect of disorder on crime*
+*Highly cited evidence for causal effect of disorder on crime*
 ]
 
 ---
@@ -219,6 +219,8 @@ Causal effects are differences between *potential outcomes*
 
 Fundamental problem: We only ever see *one* outcome
 
+* We're missing the *counterfactual*
+
 --
 
 .centernote[
@@ -301,6 +303,8 @@ Violated when different types of treatment are assumed to be the same
 ![](img/po_consistency.svg)
 ]
 
+--
+
 Commonly violated in experiments *and* observational research
 
 * e.g., scales combining different forms of physical or social disorder<sup>1</sup>
@@ -311,7 +315,7 @@ Commonly violated in experiments *and* observational research
 
 ## Consistency: Asymmetry
 
-Occurs when increasing and decreasing treatment has different effects
+Occurs when treatment effect differs by prior values
 
 .image-75[
 ![](img/po_consistency2.svg)
@@ -722,8 +726,8 @@ tribble(~Condition, ~`Walk-By`, ~Mail, ~Theft,
 
 * Mailbox experiment replicated in Oxford in Summer 2022
    
-   * Zero treatment effect on theft
-   * High walk-by rate, likely due to foot traffic
+   * No effect on theft (108 trials, 3808 participants)
+   * High walk-by rate, likely due to heavier foot traffic
 
 --
 
@@ -736,7 +740,7 @@ class: inverse, littercam
 
 ---
 
-# Ongoing Projects
+# Our Projects
 
 * [Lanfear (2022) "Collective efficacy and the built environment." *Criminology, 60*(2), 370–396](https://github.com/clanfear/ccl_cv/raw/master/articles/Collective%20Efficacy%20and%20the%20Built%20Environment.pdf)
 
@@ -774,7 +778,7 @@ guardians"
 
 **Embedded Experiments**
 
-* More micro-mechanism tests: e.g. exploring asymmetry
+* More micro-mechanism tests: e.g., sanctioning
 * Environmental interventions: e.g., work by MacDonald & colleagues
 * Policing interventions: e.g., [Weisburd et al. 2021](https://doi.org/10.1007/s11292-019-09401-1)
 * *Manipulating collective efficacy / social control*
@@ -783,9 +787,9 @@ guardians"
 
 **Embedded Qualitative Research**
 
-* Testing assumptions and observing mechanisms
+* Testing theoretical assumptions and observing mechanisms
 * The original model: Shaw & McKay (1942)
-* A new model: [St. Jean (2007)](https://press.uchicago.edu/ucp/books/book/chicago/P/bo5298963.html)
+* A new model: [St. Jean (2007) *Pockets of Crime*](https://press.uchicago.edu/ucp/books/book/chicago/P/bo5298963.html)
 
 
 
@@ -816,7 +820,7 @@ guardians"
 class: inverse
 
 
-# Acknowledgements and Q&A
+# Q&A and Acknowledgements
 
 Our experimental findings are the result of over 2000 person-hours of field work over four summers. This was made possible by the participation of graduate student researchers, grant funding, and UW institutional resources.
 
