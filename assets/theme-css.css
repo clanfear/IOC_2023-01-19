@@ -267,6 +267,9 @@ body {
   padding-right: 100px;
   bottom: 2em;
 }
+.centered {
+  text-align: center;
+}
 .image-50 img {
   width: 50%;
   display: block;

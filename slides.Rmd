@@ -111,9 +111,11 @@ Keizer et al. used multiple disorder manipulations and recorded norm violation w
 
 * Disorder greatly increased all norm violation (A)
 
-* Strong **internal validity** from experimental design---rules out confounding
+* Strong **internal validity** from experimental design
 
-* Weak **external validity**: Single sites in one city, small-scale, minor norm violations<sup>1</sup>
+* Weak **external validity**: Single sites in one city, small-scale, minor norm violations
+
+* Criticism: [Wicherts & Bakker (2014)](https://doi.org/10.1177/1368430213502); [Lanfear (2017)](http://hdl.handle.net/1773/40974)
 
 ]
 
@@ -139,7 +141,7 @@ Keizer et al. used multiple disorder manipulations and recorded norm violation w
 ]
 
 .centernote[
-*A, B, and E represent testable constraints on Broken Windows.*
+*Suggests focusing on disorder is misguided*
 ]
 
 ---
@@ -176,7 +178,7 @@ Simultaneous equations of crime, disorder, and collective efficacy in Chicago ne
 
 # Key Questions
 
-* How do we reconcile these studies?
+* How do we reconcile these (and related) studies?
 
 --
 
@@ -188,7 +190,11 @@ Simultaneous equations of crime, disorder, and collective efficacy in Chicago ne
 
 --
 
-*Concepts from causal inference can help with all of these*
+<br>
+
+.centered[
+*Concepts from causal inference can help*
+]
 
 ---
 class: inverse
@@ -764,17 +770,17 @@ guardians"
 
 * Continued large-scale ecological surveys: e.g., PHDCN-CS 3
 * Focus on:
-   * Refining key measures (e.g., collective efficacy)
-   * New measures: mobility, sources of perceptions, political action
+   * Repeated measures, maximizing variation
+   * New measures: mobility, sources of perceptions, collective action
 
 --
 
 **Embedded Experiments**
 
-* More micro-mechanism tests, e.g. exploring asymmetry
-* Environmental interventions (e.g., work by Branas & MacDonald)
-* Policing interventions (e.g., [Weisburd et al. 2021](https://doi.org/10.1007/s11292-019-09401-1))
-* Manipulating collective efficacy?
+* More micro-mechanism tests: e.g. exploring asymmetry
+* Environmental interventions: e.g., work by MacDonald & colleagues
+* Policing interventions: e.g., [Weisburd et al. 2021](https://doi.org/10.1007/s11292-019-09401-1)
+* *Manipulating collective efficacy / social control*
 
 --
 
@@ -782,7 +788,7 @@ guardians"
 
 * Testing assumptions and observing mechanisms
 * The original model: Shaw & McKay (1942)
-* A new model: St. Jean (2007) *Pockets of Crime*
+* A new model: [St. Jean (2007)](https://press.uchicago.edu/ucp/books/book/chicago/P/bo5298963.html)
 
 
 
@@ -794,9 +800,9 @@ guardians"
 **Analytical and Multi-Level Focus**
 
 * Ecological theory mechanisms are often ill-specified and untested
-   * e.g., *How* does collective efficacy work?
+   * e.g., *How does collective efficacy work?*
 * Micro-macro and macro-micro transitions
-   * The situation: Selection, emergence, lasting effects
+   * The situation: Selection, emergence, learning, communication
 * [Matsueda (2017)](https://doi.org/10.1111/1745-9125.12149); [Wikström & Kroneberg (2022)](https://doi.org/10.1146/annurev-criminol-030920-091320)
 
 --
@@ -804,7 +810,7 @@ guardians"
 **Increasing Policy Relevance**
 
 * Attention to social processes that will occur in application
-   * e.g., social interaction, spillovers, cascades
+   * e.g., communication, spillovers, cascades
 * Attention to complex systemic relationships with urban political economy, neighbourhood change, and policing
    * e.g., investment, residential mobility, police demand and perceptions
 * Addressing failures of community interventions (e.g., [Linning et al. 2022](https://doi.org/10.1186/s40163-022-00167-y))
@@ -815,7 +821,7 @@ class: inverse
 
 # Acknowledgements and Q&A
 
-Our findings are the result of over 2000 person-hours of field work over four summers. This project was made possible by the participation of graduate student researchers, grant funding, and UW institutional resources.
+Our experimental findings are the result of over 2000 person-hours of field work over four summers. This was made possible by the participation of graduate student researchers, grant funding, and UW institutional resources.
 
 .pull-left[
 ### Researchers
@@ -840,9 +846,9 @@ UW Royalty Research Fund
 
 ### Support
 
-Center for Statistics and the Social Sciences
+UW Center for Statistics and the Social Sciences
 
-Center for Studies in Demography and Ecology
+UW Center for Studies in Demography and Ecology
 ]
 
 ---
